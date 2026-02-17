@@ -1,25 +1,16 @@
-# Основные зависимости
-streamlit==1.31.0
-python-dotenv==1.0.0
-
-chromadb==0.4.22
-
-# LangChain и компоненты (актуальные версии)
-langchain>=0.1.0
-langchain-community>=0.1.0
-langchain-chroma>=0.1.0
-langchain-core
-langchain-huggingface==0.0.3
-langchain-text-splitters==0.2.0
-langchain-ollama==0.1.0  # <-- Добавьте для Ollama
-langchain-classic
-
-sentence-transformers>=2.6.0
-huggingface-hub>=0.23.0
-
-# Обработка PDF
-pypdf==4.0.0
-
-# Дополнительно
-requests==2.31.0
-numpy==1.26.0
+streamlit
+langchain
+langchain-community
+langchain-chroma
+langchain-ollama
+langchain-huggingface
+langchain-text-splitters
+chromadb
+pypdf
+python-dotenv
+sentence-transformers
+torch
+torchvision
+torchaudio
+requests
+huggingface-hub
