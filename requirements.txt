@@ -5,6 +5,7 @@ langchain-chroma
 langchain-ollama
 langchain-huggingface
 langchain-text-splitters
+langchain_classic
 chromadb
 pypdf
 python-dotenv
@@ -14,3 +15,4 @@ torchvision
 torchaudio
 requests
 huggingface-hub
+
